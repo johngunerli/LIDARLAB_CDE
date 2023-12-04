@@ -2,7 +2,11 @@
 Coordinate distance estimation using MediaPipe
 
 
-https://github.com/johngunerli/LIDAR_PRJ/assets/33205097/b746ea1f-1eb0-4bce-94aa-7a6af8553b4d
+
+https://github.com/johngunerli/LIDAR_PRJ/assets/33205097/138663e4-def9-4c06-8643-93ab80e73cbf
+
+
+
 
 
 # MediaPipe Pose Estimation and Distance Measurement
