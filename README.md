@@ -1,4 +1,4 @@
-# LIDAR_PRJ
+# CDE
 Coordinate distance estimation using MediaPipe
 
 
@@ -46,5 +46,4 @@ This Python script uses OpenCV and MediaPipe to estimate the position and distan
 - Saves the coordinates as a NumPy array in `xy_coordinates.npy`.
 
 ## Note
-
 Ensure that the camera used matches the FOV and resolution width settings for accurate measurements.
