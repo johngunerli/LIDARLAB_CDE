@@ -47,3 +47,8 @@ This Python script uses OpenCV and MediaPipe to estimate the position and distan
 
 ## Note
 Ensure that the camera used matches the FOV and resolution width settings for accurate measurements.
+
+
+
+
+https://www.section.io/engineering-education/multi-person-pose-estimator-with-python/
