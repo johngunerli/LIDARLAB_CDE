@@ -29,7 +29,7 @@ This Python script uses OpenCV and MediaPipe to estimate the position and distan
 
 ## Usage
 
-1. **Setup**: Install the required libraries using `pip install cv2 mediapipe numpy`.
+1. **Setup**: Install the required libraries using `pip install opencv-python mediapipe numpy`.
 2. **Run the Script**: Execute the script to start the pose estimation and distance measurement. The script will capture video from the default camera.
 3. **View Output**: The script displays the video feed with pose landmarks. It prints and saves the recorded X and Y coordinates as a NumPy array.
 
