@@ -61,6 +61,7 @@ indexes = cv2.dnn.NMSBoxes(boxes, confidences, 0.5, 0.4)
 
 # Create a directory to save processed images
 os.makedirs("yolo_person_processed", exist_ok=True)
+os.makedirs("yolo_person_detections", exist_ok=True)
 
 # Load processed person images
 processed_images = []
