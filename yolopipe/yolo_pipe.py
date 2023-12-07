@@ -88,6 +88,7 @@ processed_directory = "yolo_person_processed"  # Update this with the path to sa
 
 # Create the processed images directory if it doesn't exist
 os.makedirs(processed_directory, exist_ok=True)
+os.makedirs(image_directory, exist_ok=True)
 
 for filename in os.listdir(image_directory):
     if filename.endswith(".jpg") or filename.endswith(".png"):
