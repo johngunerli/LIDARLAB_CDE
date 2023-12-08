@@ -1,2 +1,7 @@
 yolo_config/yolov3.weights
 yolo_config/yolov3.cfg
+yolo_pipe_video/vids/testVideo.mp4
+yolo_pipe_video/yolov7_config/yolov7.cfg
+yolo_pipe_video/yolov7_config/yolov7.weights
+yolo_pipe_video/frames/
+yolo_pipe_video/combined_video.mp4
